@@ -1,7 +1,7 @@
-<h2 align="center">Padronização de mensagens no Git com Commitlint!</h2>
-<br>
-
-<img align="center" src="images/header-image.png">
+<span align="center">
+    <h2>Padronização de mensagens no Git com Commitlint!</h2>
+    <img src="https://raw.githubusercontent.com/Alvarenga-Dev/Commits-messages/master/images/header-image.png" width="70%">
+</span>
 
 ## Estrutura de um commit ✏️
 
@@ -39,9 +39,11 @@ Tipos baseados no [commitlint-config-conventional (Angular convention)](https://
 
 ### Título
 
-Deve ser claro e objetivo!
+Deve ser claro e objetivo! 
 
-> Não coloque um ponto (.) no final 
+> Não coloque um ponto (.) no final
+
+> Escreva sempre que possível no imperativo (add / change / remove)
 
 ### Corpo 
 
@@ -51,7 +53,8 @@ Descrição mais detalhada sobre o commit.
 
 ### Rodapé
 
-Restringe-se às alterações de estado via smart commit, como resoluções de estado de issues, e.g. ‘resolves issue #312’.
+Restringe-se às alterações de estado via smart commit, como resoluções de estado de [issues](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords), e.g. ‘close #312’.
+
 
 ## Commitlint 🧰
 
