@@ -75,4 +75,4 @@ Acesse o repositório do commitlint clicando [aqui](https://github.com/conventio
 
 ## Dá uma estrelinha! ⭐️
 
-Copyright © 2019 [Lucas Alvarenga](https://github.com/Alvarenga-Dev). 
+Copyright © 2020 [Lucas Alvarenga](https://github.com/Alvarenga-Dev). 
